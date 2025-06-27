@@ -1,0 +1,3 @@
+[submodule "phxstatsfile"]
+	path = phxstatsfile
+	url = https://starxcfg@github.com/starxcfg/phxstatsfile.git
